@@ -1,2 +1,20 @@
 Respuestas a las preguntas de la practica 3
 1.-¿Cuál es el propósito de trabajar con múltliples ramas?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.- ¿Cuál es la ventaja de reorganizar (rebase)?
